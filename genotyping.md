@@ -9,7 +9,7 @@ Raw sequencing data of sugarcane clones from a breeding population of the Sugarc
  <th>Sugarcane clone</th><th>HSF</th><th>FASTQ file</th>
  </thead>
  <tbody>
-<tr><td>g001</td><td>CO419</td><td><center><a href="https://drive.google.com/file/d/1-3AulOyJKndBt6k6WiSR9QtM3hLexqgi" target="_blank"><i class="fa fa-download" aria-hidden="true"></i></a></center></td></tr>
+ <tr><td>g001</td><td>CO419</td><td><center><a href="https://drive.google.com/file/d/1-3AulOyJKndBt6k6WiSR9QtM3hLexqgi" target="_blank"><i class="fa fa-download" aria-hidden="true"></i></a></center></td></tr>
  <tr><td>g002</td><td>SP83-2847</td><td><center><a href="https://drive.google.com/file/d/1-85YqPKia10uNDO43EKLWbeweFirOX25" target="_blank"><i class="fa fa-download" aria-hidden="true"></i></a></center></td></tr>
  <tr><td>g003</td><td>CP69-1062</td><td><center><a href="https://drive.google.com/file/d/1JiUI7aLgm6Z5n7xW8OTEGeBeT23go5Q-" target="_blank"><i class="fa fa-download" aria-hidden="true"></i></a></center></td></tr>
  <tr><td>g004</td><td>RB972610</td><td><center><a href="https://drive.google.com/file/d/1W4YSJ1E0FcixpAKTdg5waF-rNSuLlBu8" target="_blank"><i class="fa fa-download" aria-hidden="true"></i></a></center></td></tr>
@@ -34,41 +34,41 @@ Raw sequencing data of sugarcane clones from a breeding population of the Sugarc
  <tr><td>g023</td><td>RB931511</td><td><center><a href="https://drive.google.com/file/d/1yrMiF-1Qxg22BqHqumHTUmBFH68fuqqZ" target="_blank"><i class="fa fa-download" aria-hidden="true"></i></a></center></td></tr>
  <tr><td>g024</td><td>CP69-1062</td><td><center><a href="https://drive.google.com/file/d/1l2_TSKQEEPOCu5-u-h92TAY31DBkqQwF" target="_blank"><i class="fa fa-download" aria-hidden="true"></i></a></center></td></tr>
  <tr><td>g025</td><td>RB885007</td><td><center><a href="https://drive.google.com/file/d/1F0AIMr6RVnwuqxtBxzAOxozpH5Ma1q-j" target="_blank"><i class="fa fa-download" aria-hidden="true"></i></a></center></td></tr>
- <tr><td>g026</td><td>RB962560</td><td><center><a href="" target="_blank"><i class="fa fa-download" aria-hidden="true"></i></a></center></td></tr>
- <tr><td>g027</td><td>RB977625</td><td><center><a href="" target="_blank"><i class="fa fa-download" aria-hidden="true"></i></a></center></td></tr>
- <tr><td>g028</td><td>RB983149</td><td><center><a href="" target="_blank"><i class="fa fa-download" aria-hidden="true"></i></a></center></td></tr>
- <tr><td>g029</td><td>RB961517</td><td><center><a href="" target="_blank"><i class="fa fa-download" aria-hidden="true"></i></a></center></td></tr>
- <tr><td>g030</td><td>RB982639</td><td><center><a href="" target="_blank"><i class="fa fa-download" aria-hidden="true"></i></a></center></td></tr>
- <tr><td>g031</td><td>RB982639</td><td><center><a href="" target="_blank"><i class="fa fa-download" aria-hidden="true"></i></a></center></td></tr>
- <tr><td>g032</td><td>RB931511</td><td><center><a href="" target="_blank"><i class="fa fa-download" aria-hidden="true"></i></a></center></td></tr>
- <tr><td>g033</td><td>RB96502</td><td><center><a href="" target="_blank"><i class="fa fa-download" aria-hidden="true"></i></a></center></td></tr>
- <tr><td>g034</td><td>RB99395</td><td><center><a href="" target="_blank"><i class="fa fa-download" aria-hidden="true"></i></a></center></td></tr>
- <tr><td>g035</td><td>RB027058</td><td><center><a href="" target="_blank"><i class="fa fa-download" aria-hidden="true"></i></a></center></td></tr>
- <tr><td>g036</td><td>RB988079</td><td><center><a href="" target="_blank"><i class="fa fa-download" aria-hidden="true"></i></a></center></td></tr>
- <tr><td>g037</td><td>RB912525</td><td><center><a href="" target="_blank"><i class="fa fa-download" aria-hidden="true"></i></a></center></td></tr>
- <tr><td>g038</td><td>RB997984</td><td><center><a href="" target="_blank"><i class="fa fa-download" aria-hidden="true"></i></a></center></td></tr>
- <tr><td>g039</td><td>RB971739</td><td><center><a href="" target="_blank"><i class="fa fa-download" aria-hidden="true"></i></a></center></td></tr>
- <tr><td>g040</td><td>CO419</td><td><center><a href="" target="_blank"><i class="fa fa-download" aria-hidden="true"></i></a></center></td></tr>
- <tr><td>g041</td><td>RB992538</td><td><center><a href="" target="_blank"><i class="fa fa-download" aria-hidden="true"></i></a></center></td></tr>
- <tr><td>g042</td><td>RB963043</td><td><center><a href="" target="_blank"><i class="fa fa-download" aria-hidden="true"></i></a></center></td></tr>
- <tr><td>g043</td><td>RB971747</td><td><center><a href="" target="_blank"><i class="fa fa-download" aria-hidden="true"></i></a></center></td></tr>
- <tr><td>g044</td><td>RB988090</td><td><center><a href="" target="_blank"><i class="fa fa-download" aria-hidden="true"></i></a></center></td></tr>
- <tr><td>g045</td><td>RB011519</td><td><center><a href="" target="_blank"><i class="fa fa-download" aria-hidden="true"></i></a></center></td></tr>
- <tr><td>g046</td><td>RB01478</td><td><center><a href="" target="_blank"><i class="fa fa-download" aria-hidden="true"></i></a></center></td></tr>
- <tr><td>g047</td><td>RB04812</td><td><center><a href="" target="_blank"><i class="fa fa-download" aria-hidden="true"></i></a></center></td></tr>
- <tr><td>g048</td><td>RB975949</td><td><center><a href="" target="_blank"><i class="fa fa-download" aria-hidden="true"></i></a></center></td></tr>
- <tr><td>g049</td><td>RB961542</td><td><center><a href="" target="_blank"><i class="fa fa-download" aria-hidden="true"></i></a></center></td></tr>
- <tr><td>g050</td><td>RB972655</td><td><center><a href="" target="_blank"><i class="fa fa-download" aria-hidden="true"></i></a></center></td></tr>
- <tr><td>g051</td><td>RB972817</td><td><center><a href="" target="_blank"><i class="fa fa-download" aria-hidden="true"></i></a></center></td></tr>
- <tr><td>g052</td><td>SP87-365</td><td><center><a href="" target="_blank"><i class="fa fa-download" aria-hidden="true"></i></a></center></td></tr>
- <tr><td>g053</td><td>RB021740</td><td><center><a href="" target="_blank"><i class="fa fa-download" aria-hidden="true"></i></a></center></td></tr>
- <tr><td>g054</td><td>RB969532</td><td><center><a href="" target="_blank"><i class="fa fa-download" aria-hidden="true"></i></a></center></td></tr>
- <tr><td>g055</td><td>RB962933</td><td><center><a href="" target="_blank"><i class="fa fa-download" aria-hidden="true"></i></a></center></td></tr>
- <tr><td>g056</td><td>RB962560</td><td><center><a href="" target="_blank"><i class="fa fa-download" aria-hidden="true"></i></a></center></td></tr>
- <tr><td>g057</td><td>RB961542</td><td><center><a href="" target="_blank"><i class="fa fa-download" aria-hidden="true"></i></a></center></td></tr>
- <tr><td>g058</td><td>RB01478</td><td><center><a href="" target="_blank"><i class="fa fa-download" aria-hidden="true"></i></a></center></td></tr>
- <tr><td>g059</td><td>RB975949</td><td><center><a href="" target="_blank"><i class="fa fa-download" aria-hidden="true"></i></a></center></td></tr>
- <tr><td>g060</td><td>RB021722</td><td><center><a href="" target="_blank"><i class="fa fa-download" aria-hidden="true"></i></a></center></td></tr>
+ <tr><td>g026</td><td>RB962560</td><td><center><a href="https://drive.google.com/file/d/1hxnA3KZQRsPHmOTgF50BHcwGsrwtKT8F" target="_blank"><i class="fa fa-download" aria-hidden="true"></i></a></center></td></tr>
+ <tr><td>g027</td><td>RB977625</td><td><center><a href="https://drive.google.com/file/d/1kQTN-7m2lLi70-ffx4tH5-uKz2yo684s" target="_blank"><i class="fa fa-download" aria-hidden="true"></i></a></center></td></tr>
+ <tr><td>g028</td><td>RB983149</td><td><center><a href="https://drive.google.com/file/d/1p8N853wSzYO_aWC4IGA9s6EynOq53Q7S" target="_blank"><i class="fa fa-download" aria-hidden="true"></i></a></center></td></tr>
+ <tr><td>g029</td><td>RB961517</td><td><center><a href="https://drive.google.com/file/d/1e7qB0P3TBK2mRvh_QrYRC_Ev_Mnkev-4" target="_blank"><i class="fa fa-download" aria-hidden="true"></i></a></center></td></tr>
+ <tr><td>g030</td><td>RB982639</td><td><center><a href="https://drive.google.com/file/d/1w03gF2NeCjowbaWEZSfVhkFi1cJW9yRy" target="_blank"><i class="fa fa-download" aria-hidden="true"></i></a></center></td></tr>
+ <tr><td>g031</td><td>RB982639</td><td><center><a href="https://drive.google.com/file/d/1W-YHEVaC-IYr4Hsi6izFsYNVCyct2tj6" target="_blank"><i class="fa fa-download" aria-hidden="true"></i></a></center></td></tr>
+ <tr><td>g032</td><td>RB931511</td><td><center><a href="https://drive.google.com/file/d/1LP208VtoJbqo_LOJib9sJ_ztjFKMSrI1" target="_blank"><i class="fa fa-download" aria-hidden="true"></i></a></center></td></tr>
+ <tr><td>g033</td><td>RB96502</td><td><center><a href="https://drive.google.com/file/d/1XxsSd4MrgEDoXkVx_0FgjhHS9NVzHTAU" target="_blank"><i class="fa fa-download" aria-hidden="true"></i></a></center></td></tr>
+ <tr><td>g034</td><td>RB99395</td><td><center><a href="https://drive.google.com/file/d/1FEEWBSebBHtfTm2Z9oEhST3jgWZ5sWFi" target="_blank"><i class="fa fa-download" aria-hidden="true"></i></a></center></td></tr>
+ <tr><td>g035</td><td>RB027058</td><td><center><a href="https://drive.google.com/file/d/1BwktF6_bCE3AyRMFK-EPji4X1hekPPAh" target="_blank"><i class="fa fa-download" aria-hidden="true"></i></a></center></td></tr>
+ <tr><td>g036</td><td>RB988079</td><td><center><a href="https://drive.google.com/file/d/1QdlfdRfYoP-m1DJrdbBRGK8-yIlrXKhp" target="_blank"><i class="fa fa-download" aria-hidden="true"></i></a></center></td></tr>
+ <tr><td>g037</td><td>RB912525</td><td><center><a href="https://drive.google.com/file/d/1R5fgVWke2PIf4MKEJbtHz_tSXKu64rqF" target="_blank"><i class="fa fa-download" aria-hidden="true"></i></a></center></td></tr>
+ <tr><td>g038</td><td>RB997984</td><td><center><a href="https://drive.google.com/file/d/1XGrWzOZpMNN2rCERhDK-WCn6EcIG7Cn3" target="_blank"><i class="fa fa-download" aria-hidden="true"></i></a></center></td></tr>
+ <tr><td>g039</td><td>RB971739</td><td><center><a href="https://drive.google.com/file/d/1OU7kjtl8Kdw04l0FT501xeq5ZNdrx9jn" target="_blank"><i class="fa fa-download" aria-hidden="true"></i></a></center></td></tr>
+ <tr><td>g040</td><td>CO419</td><td><center><a href="https://drive.google.com/file/d/1zdBP41DKqL-Iu9bqvRzOB7WepXK-4mio" target="_blank"><i class="fa fa-download" aria-hidden="true"></i></a></center></td></tr>
+ <tr><td>g041</td><td>RB992538</td><td><center><a href="https://drive.google.com/file/d/1ip8pmCjfzidfJMJGTsOktcL-1L23BnqV" target="_blank"><i class="fa fa-download" aria-hidden="true"></i></a></center></td></tr>
+ <tr><td>g042</td><td>RB963043</td><td><center><a href="https://drive.google.com/file/d/1pP8GQ19ZkdpUN1ulU7r7umzVx2-m9Od6" target="_blank"><i class="fa fa-download" aria-hidden="true"></i></a></center></td></tr>
+ <tr><td>g043</td><td>RB971747</td><td><center><a href="https://drive.google.com/file/d/13YS4bGBa44Mbik_X5XZ2i5o_VetzVTjN" target="_blank"><i class="fa fa-download" aria-hidden="true"></i></a></center></td></tr>
+ <tr><td>g044</td><td>RB988090</td><td><center><a href="https://drive.google.com/file/d/19Jngs-DzWmjzzSxmQD-EHlGb5pN1Y6jk" target="_blank"><i class="fa fa-download" aria-hidden="true"></i></a></center></td></tr>
+ <tr><td>g045</td><td>RB011519</td><td><center><a href="https://drive.google.com/file/d/1YDQxxW0yU8-iD4i9faPBf4ZX1IaNLBWr" target="_blank"><i class="fa fa-download" aria-hidden="true"></i></a></center></td></tr>
+ <tr><td>g046</td><td>RB01478</td><td><center><a href="https://drive.google.com/file/d/1mNTQPdl4mWn4S-J4Ylo51afgr6WYsZd8" target="_blank"><i class="fa fa-download" aria-hidden="true"></i></a></center></td></tr>
+ <tr><td>g047</td><td>RB04812</td><td><center><a href="https://drive.google.com/file/d/1WazlWtL33kd15qrrdj-eFdVIhYQQp_3h" target="_blank"><i class="fa fa-download" aria-hidden="true"></i></a></center></td></tr>
+ <tr><td>g048</td><td>RB975949</td><td><center><a href="https://drive.google.com/file/d/11e1axZ-9_xM3yCGujkN0r8UA4JbxBHel" target="_blank"><i class="fa fa-download" aria-hidden="true"></i></a></center></td></tr>
+ <tr><td>g049</td><td>RB961542</td><td><center><a href="https://drive.google.com/file/d/1lhIqwYI5Ta_QB9Zj1TaVVqlrorTAG_46" target="_blank"><i class="fa fa-download" aria-hidden="true"></i></a></center></td></tr>
+ <tr><td>g050</td><td>RB972655</td><td><center><a href="https://drive.google.com/file/d/1xC3ii4qfNAiZzOxcf5gUYErYiXXv-8c8" target="_blank"><i class="fa fa-download" aria-hidden="true"></i></a></center></td></tr>
+ <tr><td>g051</td><td>RB972817</td><td><center><a href="https://drive.google.com/file/d/1REpBaOfXMdr9V8ZCPXNqOHKFKjHH7LaH" target="_blank"><i class="fa fa-download" aria-hidden="true"></i></a></center></td></tr>
+ <tr><td>g052</td><td>SP87-365</td><td><center><a href="https://drive.google.com/file/d/1go0pWE7vDwJdh2pRL4GGY4btuv-0Wbq9" target="_blank"><i class="fa fa-download" aria-hidden="true"></i></a></center></td></tr>
+ <tr><td>g053</td><td>RB021740</td><td><center><a href="https://drive.google.com/file/d/1DdHRqS6CT9vqcbAnYdorRHH86nbhjKyW" target="_blank"><i class="fa fa-download" aria-hidden="true"></i></a></center></td></tr>
+ <tr><td>g054</td><td>RB969532</td><td><center><a href="https://drive.google.com/file/d/1z1agdfO-yWW6KemaJYCG6Ud8w-LTfEZ9" target="_blank"><i class="fa fa-download" aria-hidden="true"></i></a></center></td></tr>
+ <tr><td>g055</td><td>RB962933</td><td><center><a href="https://drive.google.com/file/d/1fabmNWcvHf1sWuA68f7tCJpgFV_a5Utv" target="_blank"><i class="fa fa-download" aria-hidden="true"></i></a></center></td></tr>
+ <tr><td>g056</td><td>RB962560</td><td><center><a href="https://drive.google.com/file/d/1aBbbCcpcMVkxdDH3bShZvmS7svysIzxZ" target="_blank"><i class="fa fa-download" aria-hidden="true"></i></a></center></td></tr>
+ <tr><td>g057</td><td>RB961542</td><td><center><a href="https://drive.google.com/file/d/1O_7JrYF0XGac3sqqemsoGugO5o6aN3ca" target="_blank"><i class="fa fa-download" aria-hidden="true"></i></a></center></td></tr>
+ <tr><td>g058</td><td>RB01478</td><td><center><a href="https://drive.google.com/file/d/1que4OZyvHpxPtp-kLW3l9CK9rxs12Q9z" target="_blank"><i class="fa fa-download" aria-hidden="true"></i></a></center></td></tr>
+ <tr><td>g059</td><td>RB975949</td><td><center><a href="https://drive.google.com/file/d/1a-Zq4VUdENO_j3R5zkjsEXKqU-t8bAPW" target="_blank"><i class="fa fa-download" aria-hidden="true"></i></a></center></td></tr>
+ <tr><td>g060</td><td>RB021722</td><td><center><a href="https://drive.google.com/file/d/1ET-d1KEoNmvTqovIiMIuhWG8ohi1g3nc" target="_blank"><i class="fa fa-download" aria-hidden="true"></i></a></center></td></tr>
  <tr><td>g061</td><td>RB961542</td><td><center><a href="" target="_blank"><i class="fa fa-download" aria-hidden="true"></i></a></center></td></tr>
  <tr><td>g062</td><td>RB961552</td><td><center><a href="" target="_blank"><i class="fa fa-download" aria-hidden="true"></i></a></center></td></tr>
  <tr><td>g063</td><td>RB051501</td><td><center><a href="" target="_blank"><i class="fa fa-download" aria-hidden="true"></i></a></center></td></tr>
