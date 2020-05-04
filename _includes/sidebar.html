@@ -11,7 +11,6 @@
 
   <nav class="sidebar-nav">
     <a class="sidebar-nav-item{% if page.title == 'Home' %} active{% endif %}" href="{{ '/' | absolute_url }}">Home</a>
-
     {% comment %}
       The code below dynamically generates a sidebar nav of pages with
       `layout: page` in the front-matter. See readme for usage.
@@ -24,13 +23,17 @@
           <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ node.url | absolute_url }}">{{ node.title }}</a>
         {% endif %}
       {% endif %}
-    {% endfor %}  
+    {% endfor %}
+    <a class="sidebar-nav-item" href="https://www.ufv.br" target="_blank">UFV</a>
+    <a class="sidebar-nav-item" href="https://www.ridesaufv.com.br" target="_blank">PMGCA</a>
+    <a class="sidebar-nav-item" href="https://www.ridesa.com.br" target="_blank">RIDESA</a>	
   </nav>
 
   <div class="sidebar-item">
-    <br>
+    Currently version: {{ site.version }}
+	<br>
 	<center><script type="text/javascript" src="//rf.revolvermaps.com/0/0/7.js?i=58aurdrsbg7&amp;m=0c&amp;c=ff0000&amp;cr1=ffc000&amp;sx=0&amp;cw=f2f2f2&amp;cb=969696" async="async"></script></center>
 	<br>
-	<center><small>Currently v.{{ site.version }} | PMGCA/UFV &copy; {{ site.time | date: '%Y' }}. All rights reserved.</small></center>
+	<center><small> | PMGCA/UFV &copy; {{ site.time | date: '%Y' }}. All rights reserved.</small></center>
   </div>
 </div>
