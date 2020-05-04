@@ -2,7 +2,7 @@
 title:               Sugarcane DR
 tagline:             ''
 description:         'Data Repository of Sugarcane Breeding Program of UFV'
-url:                 https://sugarcaneufv.github.io/
+url:                 https://sugarcaneufv.github.io
 baseurl:             '/'
 paginate:            5
 
