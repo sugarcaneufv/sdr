@@ -8,7 +8,7 @@
 	<center><img src="./images/pmgca_logo.png"></center>
     <center><i class="fa fa-map-marker"></i><a href="https://goo.gl/maps/GrJVXiwqAtp2sw4Y9" target="_blank">&nbspUFV&nbsp|&nbspVicosa&nbsp|&nbspBrazil&nbsp</a></center>
     <br>
-	<center>{{ site.description }}</center>
+	<center></center>
   </div>
 
   <nav class="sidebar-nav">
@@ -26,13 +26,14 @@
           <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ node.url | absolute_url }}">{{ node.title }}</a>
         {% endif %}
       {% endif %}
-    {% endfor %}
-    <span class="sidebar-nav-item">Currently v.{{ site.version }}</span>
+    {% endfor %}  
   </nav>
 
   <div class="sidebar-item">
-    <p>
+    <span class="sidebar-nav-item">Currently v.{{ site.version }}</span>
+	<p>
       &copy; {{ site.time | date: '%Y' }}. All rights reserved.
     </p>
+	<div style="display:inline-block;width:200px;"><script type="text/javascript" src="//rf.revolvermaps.com/0/0/7.js?i=5n3f8fhrtow&amp;m=0c&amp;c=ff0000&amp;cr1=ffc000&amp;sx=0&amp;ds=10&amp;cw=ffffff&amp;cb=919191" async="async"></script></div>
   </div>
 </div>
