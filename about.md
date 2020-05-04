@@ -2,7 +2,7 @@
 layout: page
 title: About
 ---
-Sugarcane Breeding Programa (Programa de Melhoramento de Cana-de-Acucar, PMGCA) of Federal University of Vicosa (Universidade Federal de Vicosa, UFV) is member of Brazilian Inter-University Network for the Development of Sugarcane Industry (Rede Interuniversitaria para o Desenvolvimento do Setor Sucroenérgético, RIDESA Brasil).
+Sugarcane Breeding Program (Programa de Melhoramento de Cana-de-Acucar, [PMGCA](https://www.ridesaufv.com.br)) of Federal University of Vicosa (Universidade Federal de Vicosa, [UFV](https://www.ufv.br)) is member of Brazilian Inter-University Network for the Development of Sugarcane Industry (Rede Interuniversitaria para o Desenvolvimento do Setor Sucroenérgético, [RIDESA Brasil](www.ridesa.com.br)).
 <br>
 <br>
 RIDESA is an inter-university network for the development of sugar cane industry in Brazil, and was formed by a technical cooperation agreement among public universities <sup>[1]</sup>. RIDESA's network management involves public-private partnerships (Universities-Mills) and RIDESA Brasil (RB) cultivars are currently responsible for 65% of cultivated area with sugarcane in Brazil.
