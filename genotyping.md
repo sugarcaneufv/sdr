@@ -2,7 +2,7 @@
 layout: page
 title: Genotyping data
 ---
-Raw sequencing data of sugarcane clones from a breeding population of the [Sugarcane Breeding Program](https://www.ridesaufv.com.br) at [UFV](https://www.ufv.br). This population consists of clones from half-sib families (HSF), originated from crossings between elite sugarcane clones and commercial cultivars.
+Raw sequencing data of sugarcane clones from a breeding population of the <a href="https://www.ridesaufv.com.br" target="_blank">Sugarcane Breeding Program</a> at <a href="https://www.ufv.br" target="_blank">UFV</a>. This population consists of clones from half-sib families (HSF), originated from crossings between elite sugarcane clones and commercial cultivars.
 
 <table>
  <thead>
