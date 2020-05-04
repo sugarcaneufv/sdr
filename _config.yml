@@ -1,7 +1,7 @@
 # Setup
 title:               Sugarcane DR
-tagline:             'Data Repository of Sugarcane Breeding Program of UFV'
-description:         'A reserved '
+tagline:             ''
+description:         'Data Repository of Sugarcane Breeding Program of UFV'
 url:                 https://sugarcaneufv.github.io/
 baseurl:             '/'
 paginate:            5
@@ -10,12 +10,11 @@ paginate:            5
 author:
   name:              Pedro MP Vidigal
   url:               https://pmvidigal.github.io
-  email:             pedro.vidigal@ufv.br
 
 # Gems
 plugins:
   - jekyll-paginate
 
 # Custom vars
-version:             1.0.0
+version:             1.0
 google_analytics_id: #UA-XXXX-Y
